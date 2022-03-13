@@ -1,1 +1,1 @@
-# laravel10
+# Framework Laravel version 10.x
