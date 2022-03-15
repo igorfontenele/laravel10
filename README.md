@@ -1,1 +1,3 @@
-Framework Laravel version 10.x
+#laravel10
+
+This is a template of laravel 10.x
